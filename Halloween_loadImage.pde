@@ -10,7 +10,7 @@ void setup(){
 
 void draw()
 {
-  save("PADILLA.HAlloween.Png");
+
 }
 
 void mouseDragged()
